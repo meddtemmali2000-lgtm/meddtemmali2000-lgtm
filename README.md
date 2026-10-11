@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:0B5CAB,100:1FA0E0&height=200&section=header&text=Mohamed%20Temmali&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=DevOps%20%C2%B7%20Cloud%20%C2%B7%20Systems%20%C2%B7%20Observability&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://github.com/meddtemmali2000-lgtm">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=1FA0E0&center=true&vCenter=true&width=720&lines=%E2%98%81%EF%B8%8F+DevOps+%26+Cloud+Systems+Engineer+%40+MIBTECH;%F0%9F%93%8A+Observability+%7C+Zabbix+%C2%B7+Grafana+%C2%B7+Telegraf;%F0%9F%8F%97%EF%B8%8F+HCI+%26+Virtualization+%7C+Nutanix+%C2%B7+Proxmox+%C2%B7+Ceph;%E2%9A%99%EF%B8%8F+Automation+%7C+Ansible+%C2%B7+Docker+%C2%B7+PowerShell+%C2%B7+Bash" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=1FA0E0&center=true&vCenter=true&width=720&lines=%E2%98%81%EF%B8%8F+DevOps+%26+Cloud+Systems+Engineer+%40+MIBTECH;%F0%9F%93%8A+Observability+%7C+Zabbix+%C2%B7+Grafana+%C2%B7+ELK+%C2%B7+OpenTelemetry;%F0%9F%8F%97%EF%B8%8F+HCI+%26+Virtualization+%7C+Nutanix+%C2%B7+Proxmox+%C2%B7+Ceph;%E2%9A%99%EF%B8%8F+IaC+%26+Automation+%7C+Terraform+%C2%B7+Ansible+%C2%B7+Puppet+%C2%B7+Docker" alt="typing"/>
 </a>
 
 <p>
@@ -26,10 +26,11 @@ name:      Mohamed Temmali
 role:      DevOps · Cloud · Systems Engineer
 company:   MIBTECH — Casablanca 🇲🇦
 focus:
-  - 📊 Observability & monitoring  (Zabbix, Grafana, Telegraf, Centreon)
+  - 📊 Observability & monitoring  (Zabbix, Prometheus, Grafana, ELK, OpenTelemetry)
   - 🏗️ Virtualization & HCI         (Nutanix AHV, Proxmox VE, Ceph, VMware)
-  - ⚙️ Infrastructure automation    (Ansible, Docker, PowerShell, Bash)
-  - 🐧 Linux systems & networking   (RHEL/CentOS, Ubuntu, NAT, DNS, SSH)
+  - ⚙️ IaC & automation             (Terraform, Ansible, Puppet, Docker, PowerShell, Bash)
+  - 🐧 Linux systems & networking   (RHEL/CentOS, Ubuntu, Nginx, NAT, DNS, SSH)
+  - 🗄️ Databases                    (PostgreSQL, Oracle)
 currently: Building production-grade homelabs & documenting real-world troubleshooting
 motto:     "If it isn't monitored, it isn't in production."
 ```
@@ -60,6 +61,10 @@ motto:     "If it isn't monitored, it isn't in production."
 ![Telegraf](https://img.shields.io/badge/Telegraf-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 ![Centreon](https://img.shields.io/badge/Centreon-0072CE?style=for-the-badge&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 </details>
 
@@ -67,7 +72,9 @@ motto:     "If it isn't monitored, it isn't in production."
 <summary><b>⚙️ DevOps · Automation</b></summary>
 <br/>
 
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -85,7 +92,9 @@ motto:     "If it isn't monitored, it isn't in production."
 ![Red Hat](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Guacamole](https://img.shields.io/badge/Apache%20Guacamole-578B34?style=for-the-badge&logo=apache&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </details>
